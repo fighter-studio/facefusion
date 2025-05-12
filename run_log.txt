@@ -1,0 +1,6 @@
+Log file created on Sun May 11 21:36:13 EDT 2025
+
+python3 facefusion.py headless-run -s "/Users/viviantian/Documents/GitHub/facefusion/source/em.png" -t "/Users/viviantian/Documents/GitHub/facefusion/target/oldspice.jpg" -o "/Users/viviantian/Documents/GitHub/facefusion/output/em_oldspice.jpg"
+python3 facefusion.py headless-run -s "/Users/viviantian/Documents/GitHub/facefusion/source/em.png" -t "/Users/viviantian/Documents/GitHub/facefusion/target/pharma.jpg" -o "/Users/viviantian/Documents/GitHub/facefusion/output/em_pharma.jpg"
+python3 facefusion.py headless-run -s "/Users/viviantian/Documents/GitHub/facefusion/source/vk.jpg" -t "/Users/viviantian/Documents/GitHub/facefusion/target/oldspice.jpg" -o "/Users/viviantian/Documents/GitHub/facefusion/output/vk_oldspice.jpg"
+python3 facefusion.py headless-run -s "/Users/viviantian/Documents/GitHub/facefusion/source/vk.jpg" -t "/Users/viviantian/Documents/GitHub/facefusion/target/pharma.jpg" -o "/Users/viviantian/Documents/GitHub/facefusion/output/vk_pharma.jpg"

@@ -1,0 +1,2 @@
+/Users/viviantian/Documents/GitHub/facefusion/target/oldspice.jpg
+/Users/viviantian/Documents/GitHub/facefusion/target/pharma.jpg
