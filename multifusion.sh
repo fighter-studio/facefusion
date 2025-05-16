@@ -44,7 +44,7 @@ while IFS= read -r source_path; do
   source_filename=$(basename "$source_path" | cut -d. -f1)
   while IFS= read -r target_path; do
     target_filename=$(basename "$target_path" | cut -d. -f1)
-    output_file="${OUTPUT_FOLDER}/${source_filename}_${target_filename}.jpg"
+    output_file="${OUTPUT_FOLDER}/${source_filename}_${target_filename}.png"
 
     command="python3 facefusion.py headless-run -s \"$source_path\" -t \"$target_path\" -o \"$output_file\""
     echo "$command" >> run_log.txt
