@@ -34,3 +34,8 @@
 /Users/viviantian/Documents/GitHub/facefusion/target/07-083.png
 /Users/viviantian/Documents/GitHub/facefusion/target/07-084.png
 /Users/viviantian/Documents/GitHub/facefusion/target/07-085.png
+/Users/viviantian/Documents/GitHub/facefusion/target/08-086.png
+/Users/viviantian/Documents/GitHub/facefusion/target/08-087.png
+/Users/viviantian/Documents/GitHub/facefusion/target/08-088.png
+/Users/viviantian/Documents/GitHub/facefusion/target/08-089.png
+/Users/viviantian/Documents/GitHub/facefusion/target/08-090.png
