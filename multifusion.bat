@@ -36,12 +36,18 @@ set "OUTPUT_FOLDER=%batchDir%output"
 
 :: Write source file paths
 for %%f in ("%source%\*") do (
-    if exist "%%f" echo %%f >> %SOURCE_TEMP_FILE%
+    if exist "%%f" (
+        <nul set /p=%%f>> %SOURCE_TEMP_FILE%
+        echo.>> %SOURCE_TEMP_FILE%
+    )
 )
 
 :: Write target file paths
 for %%f in ("%target%\*") do (
-    if exist "%%f" echo %%f >> %TARGET_TEMP_FILE%
+    if exist "%%f" (
+        <nul set /p=%%f>> %TARGET_TEMP_FILE%
+        echo.>> %TARGET_TEMP_FILE%
+    )
 )
 
 :: Process combinations
