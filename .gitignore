@@ -8,3 +8,7 @@ __pycache__
 .source
 .output
 face_swapper.py
+.DS_Store
+output/.DS_Store
+source/.DS_Store
+target/.DS_Store
