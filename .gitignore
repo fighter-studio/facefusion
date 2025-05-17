@@ -12,3 +12,8 @@ face_swapper.py
 output/.DS_Store
 source/.DS_Store
 target/.DS_Store
+/output
+/source
+run_log.txt
+source_paths.txt
+target_paths.txt
